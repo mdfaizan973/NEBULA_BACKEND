@@ -16,3 +16,4 @@ MarkupSafe
 pymongo
 sniffio
 Werkzeug
+gunicorn
